@@ -44,27 +44,6 @@ A fun and interactive dice game built using React.js! The objective is to match 
 
 ---
 
-## Project Structure
-
-```
-Tenzies-Game/
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── Dice.js
-│   │   ├── RollButton.js
-│   │   └── Timer.js (if applicable)
-│   ├── App.js
-│   ├── index.js
-│   └── styles.css
-├── .gitignore
-├── package.json
-├── README.md
-└── yarn.lock
-```
-
----
-
 ## Technologies Used
 
 - React.js

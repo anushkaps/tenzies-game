@@ -54,6 +54,13 @@ A fun and interactive dice game built using React.js! The objective is to match 
 
 ## Screenshots
 
+![image](https://github.com/user-attachments/assets/bada880b-09b6-4da8-8607-64ce2ed69895)
+
+![image](https://github.com/user-attachments/assets/e10a8798-bca9-454f-9e01-fdfa914842de)
+
+![image](https://github.com/user-attachments/assets/fba8b5c0-d988-4f48-a304-5511670ceda8)
+
+
 ### Game Interface
 ![Tenzies Game Interface](https://via.placeholder.com/800x400.png?text=Add+Screenshot+Here)
 

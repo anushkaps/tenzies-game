@@ -1,5 +1,5 @@
 # Tenzies Game
-[Live Demo]([https://tenzies-game-aps.vercel.app/])
+[Live Demo](https://tenzies-game-aps.vercel.app/)
 
 A fun and interactive dice game built using React.js! The objective is to match all 10 dice to the same number as quickly as possible. This project is perfect for honing React skills and having some fun along the way.
 

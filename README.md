@@ -9,7 +9,6 @@ A fun and interactive dice game built using React.js! The objective is to match 
 
 - **Interactive Gameplay**: Roll dice and lock numbers to achieve the objective.
 - **Dynamic State Management**: Dice states update seamlessly with each roll.
-- **Timer and Roll Count (Optional)**: Track your performance.
 - **Responsive Design**: Play on any device.
 
 ---
